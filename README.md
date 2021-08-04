@@ -10,9 +10,9 @@ This app will allow a user to quickly search for any employees, obtain their nam
 - [Testing](#test)
 - [Questions](#questions)
 ## Installation
-No need for installation. This app is available for frontend use. If you would like to recreated, simply clone this repository, and run "npm i" on yout Terminal or Gitbash to install all necessary packages.
+No need for installation. This app is available for frontend use. If you would like to recreated, simply clone this repository, and run "npm i" on your Terminal or Gitbash to install all necessary packages.
 ## Usage
-[Click](undefined) this link watch video walkthrough for this app. 
+![App demo](assets/demo.gif)
 ## License
 This application is under the MIT license.  
 ## Contributors
