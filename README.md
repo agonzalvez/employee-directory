@@ -12,7 +12,8 @@ This app will allow a user to quickly search for any employees, obtain their nam
 ## Installation
 No need for installation. This app is available for frontend use. If you would like to recreated, simply clone this repository, and run "npm i" on your Terminal or Gitbash to install all necessary packages.
 ## Usage
-![App demo](assets/demo.gif)
+- ![App demo](assets/demo.gif)
+- [Live app](https://agonzalvez.github.io/employee-directory/)
 ## License
 This application is under the MIT license.  
 ## Contributors
