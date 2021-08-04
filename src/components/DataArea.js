@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import DataTable from "./DataTable";
 import Navbar from "./Navbar";
 import API from "../utils/API";
-import "./DataArea.css";
+
 
 export default class DataArea extends Component {
   state = {
@@ -14,9 +14,7 @@ export default class DataArea extends Component {
   headings = [
     { name: "Image", width: "10%" },
     { name: "Name", width: "10%" },
-
     { name: "Email", width: "20%" },
-
   ]
 
   handleSort = heading => {

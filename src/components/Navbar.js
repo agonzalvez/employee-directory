@@ -1,6 +1,6 @@
 import React from "react";
 import SearchBar from "./SearchBar.js";
-import "./Navbar.css";
+
 
 function Navbar({ handleSearchChange }) {
   return (
